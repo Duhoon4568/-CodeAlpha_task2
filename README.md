@@ -1,2 +1,6 @@
 # -CodeAlpha2taskin1month
-1st task of 1 month internship at codealpha build a arithmetic calculator
+2nd task of 1 month internship at codealpha 
+<br>
+build an image gallery
+<br>
+use HTML, CSS, JavaScript
